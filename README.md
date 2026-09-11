@@ -1,4 +1,4 @@
-# ⚡ AARYAN // CYBER SYSTEMS PROFILE
+# ⚡ ARYAN // CYBER SYSTEMS PROFILE
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║                  SYSTEM INITIALIZED                     ║
 ║                                                          ║
-║   USER        : Aaryan                                  ║
+║   USER        : Aryan Patel                                ║
 ║   ROLE        : CSE Student | Cybersecurity Enthusiast   ║
 ║   DOMAIN      : IoT × Cybersecurity × Blockchain        ║
 ║   STATUS      : BUILDING • LEARNING • SECURING          ║
@@ -31,18 +31,18 @@
 ## 🧬 `SYSTEM.IDENTITY`
 
 ```yaml
-name: Aaryan
-education: B.Tech CSE
-specialization: IoT with Cybersecurity & Blockchain Technology
-current_phase: 5th Semester
+Name: Aryan Patel
+Education: B.Tech CSE
+Specialization: IoT with Cybersecurity & Blockchain Technology
+Current_phase: 5th Semester
 
-core_interests:
+Core_interests:
   - Cybersecurity
   - IoT
   - Artificial Intelligence
   - Programming
 
-mindset:
+Mindset:
   - Learn
   - Build
   - Break
