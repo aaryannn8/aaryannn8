@@ -1,26 +1,34 @@
-```json
-{
-  "engineer": "Aryan Patel",
-  "specialties": ["IoT Security", "Blockchain Architectures"],
-  "environment": {
-    "ide": "Replit",
-    "version_control": "GitHub",
-    "gateway_security": "Cloudflare",
-    "datastore": "Supabase"
-  },
-  "alerting_pipeline": {
-    "instant_messaging": "Slack",
-    "telephony_sms": "Twilio",
-    "threat_intel_ingest": "Apify"
-  },
-  "knowledge_base": ["Notion", "Perplexity", "Google Drive"]
-}
-```
+# 📡 PROTOCOL INITIATED // LAYER_0: ARYAN PATEL
 
-### 📁 Initializing Sub-routines
-* `run iot-monitor.py` — Monitors connected network device logs for access boundary failures.
-* `run ledger-check.js` — Validates state changes against unexpected execution vectors.
+[ MATRIX STATUS: ACTIVE ] ────────────── [ OPERATIONAL DOMAIN: CYBERSECURITY ]
+An engineering node specializing in **IoT Firmware Integrity Hardening** and **Decentralized Cryptographic Ledger Auditing**. Developing structural automation systems to guard perimeter endpoints and decode on-chain transaction threats.
 
-### 🔌 Link Interface
-* `GET /linkedin` ──► [Profile](https://linkedin.com)
-* `POST /email` ──► [Contact](mailto:your-email@gmail.com)
+---
+
+### 🧬 INFRASTRUCTURE CONFIGURATION [STACK_v4.2]
+
+
+---
+
+### 🛡️ ACTIVE DEFENSE SANDBOXES [PROJECTS]
+
+*   **`[⚡] ENGINE_STRIKE // iot-threat-monitor`**
+    > A persistent background telemetry routing script built on Replit. It actively ingests hardware peripheral event logs and pipes perimeter failure alerts straight into dedicated Slack warning arrays.
+
+*   **`[⛓️] VECTOR_CHECK // smart-contract-watchdog`**
+    > A decentralized state ledger analyzer designed to flag suspicious transaction behaviors on-chain and catalogue state anomalies into structured diagnostic tables.
+
+---
+
+### 🔌 COMMS INTERFACE [ACCESS_KEYS]
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" />
+  </a>
+  <a href="mailto:aryansanatani16@gmail.com">
+    <img src="https://shields.io" />
+  </a>
+</p>
+
+---
