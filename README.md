@@ -1,30 +1,22 @@
-# Hi there, I'm Aryan Patel 👋
+# ⚡ ARYAN PATEL | SECURITY ENGINEER
 
-An aspiring **Cybersecurity Engineer** specializing in the intersection of **IoT Hardware Security** and **Decentralized Blockchain Architectures**. I focus on building secure embedded hardware systems, testing smart contracts, and hardening data pipelines against vulnerabilities.
+> Aspiring Cybersecurity Specialist focusing on the security architecture of IoT systems and Blockchain layers.
 
----
+┌────────────────────────────────────────────────────────┐
+│  🌐 MAIN DOMAIN : IoT Vulnerability & Asset Auditing   │
+│  ⛓️ NEXT FOCUS  : Smart Contract Threat Modeling       │
+└────────────────────────────────────────────────────────┘
 
-### 🛠️ Core Technical Stack
+### 🛡️ SECURE INFRASTRUCTURE LAYER
+* 🟢 **Core Stack:** Replit • GitHub • Supabase • Cloudflare
+* 🟡 **Alerting & Analysis:** Slack • Twilio • Apify • Perplexity
+* 🔵 **Data Handling:** Google Drive • Notion
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, Solidity, C++ |
-| **IoT & Network Security** | Cloudflare, Wireshark, ESP32, MQTT Security |
-| **Blockchain Engineering** | Web3.js, Hardhat, Supabase, Secure Smart Contracts |
-| **Operations & Threat Intel** | GitHub Actions, Linux, Slack Automation, Apify |
-
----
-
-### 🛡️ Active Security Projects
-
-*   **IoT Threat Monitor:** A secure backend script running via Replit that aggregates live hardware logs and pipes anomaly alerts to a private corporate Slack web environment.
-*   **Smart Contract Auditor:** A custom tool built to scan EVM-compatible transaction payloads for potential vulnerability vectors like reentrancy exploits.
+### 💻 SECURE CODE CONTRIB
+* **[IoT-Shield-Daemon]** — Automated event logging engine built on Replit to dispatch hardware anomaly warnings directly to high-priority Slack spaces.
+* **[Chain-Watch]** — A lightweight transaction indexing pipeline logging potential smart contract anomalies directly into private workspaces.
 
 ---
 
-### 🌐 Connect With Me
-
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Slack Workspace](https://shields.io)](https://slack.com)
-[![Secure Contact](https://shields.io)](mailto:your-email@gmail.com)
-
+### 🌐 ENCRYPTED CHANNELS
+[LinkedIn](https://linkedin.com) // [Slack Alerts](https://slack.com) // [Secure Email](mailto:your-email@gmail.com)
