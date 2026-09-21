@@ -1,4 +1,5 @@
-# ⚡ ARYAN // CYBERSECURITY PROFILE
+# ⚡ ARYAN // CYBERSECURITY PROFILE 
+                  The Cyber Sentinel 
 
 <div align="center">
 
